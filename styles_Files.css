@@ -41,6 +41,12 @@ p {
     letter-spacing: 1px;
 }
 
+.ueberschrift {
+    color: #273c2c;
+    font-size: 130%;
+    letter-spacing: 1px;
+}
+
 .Menuegesamt {
     display: flex;
     align-items: center;
